@@ -36,3 +36,5 @@ document.write(x);
 window.allert(math.random());
 window.alert(math.random()*100);
 print(file)
+window.alert(math.random());
+windowallert(math.random()*100);
