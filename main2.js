@@ -19,3 +19,18 @@ function my_dictionary() {//i chose my bird sunny for this assignent caus shes l
 	delete animal.sound;//this is my dictionary and my delete//
 	document.getElementById("dictionary").innerHTML =animal.sound;
 }
+var foo= document.ElementByTagName("p");
+document.write(typeof"word");
+document.write(type of 3);
+document.getelementbyid("tesdt").innerhtml-isnan('007');
+document.write(2E310);
+console.log(2=3);
+document.write(10==10);
+y=10
+x=10
+document.write(x===y);
+document.write(5>2&&10>4);
+document.write(5>10||10>4);
+<p id="not" onclick="not_function()">click here!</p>
+function not_function() {
+	document.getelementbyid("noty").innerhtml=!(20>10);
